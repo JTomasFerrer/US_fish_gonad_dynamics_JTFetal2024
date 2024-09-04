@@ -2,7 +2,7 @@ This reprository contains all the code related to our work "Ultrasonography as a
 technique for assessing diet effects on fish gonad dynamics", by Joaquim Tomàs-Ferrer, Irene 
 Moro-Martínez, Enrique Massutí-Pascual, Amàlia Grau and Miquel Palmer.
 
-The R script jtf_weight_dynamics is designed for analysing the effect of diet on fish gonad 
+The R script jtf_weight_dynamics (and the input data file input.RData) are designed for analysing the effect of diet on fish gonad 
 dynamics using ultrasonography data. This script contains several steps:
 
 1. Loading data and libraries
